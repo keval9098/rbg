@@ -1,0 +1,8 @@
+spec:
+  name: rbg
+  services:
+  - environment_slug: python
+    git:
+      branch: main
+      repo_clone_url: https://github.com/digitalocean/sample-python.git
+    name: rbg
