@@ -4,5 +4,5 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/rbg
+    repo: keval9098/rbg
   name: rbg
